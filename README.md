@@ -15,7 +15,6 @@ The courses can be accessed here: [All Courses - PadhAI](https://padhai.onefourt
 
 -----
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] <br>
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
 
