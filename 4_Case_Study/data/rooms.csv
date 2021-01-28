@@ -1,0 +1,11 @@
+Room_Number,Num_Students,Department,Occupied
+101,1,Mechanical,Y
+102,,Empty,N
+103,3,Electrical,Y
+104,2,Mechanical,Y
+105,NA,Chemical,N
+,1,Electrical,Y
+107,3,Civil,--
+108,n/a,CS,Y
+109,na,Mechanical,
+110,2,CS,N
