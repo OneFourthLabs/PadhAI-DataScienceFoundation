@@ -1,4 +1,4 @@
-# PadhAI-One
+# PadhAI - Foundations of Data Science
 
 <img width="50%" src="https://i.imgur.com/nTOFzVI.png" />
 
@@ -6,7 +6,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OneFourthLabs/PadhAI-One/)
 
-This repository contains all the materials related to the PadhAI-One Series of AI Courses. <br>
+This repository contains all the materials for Data Science using Python taught in the course **PadhAI - Foundations of Data Science**. <br>
 The courses can be accessed here: [All Courses - PadhAI](https://padhai.onefourthlabs.in/collections)
 
 -- *By Team One Fourth Labs*
